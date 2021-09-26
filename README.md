@@ -1,1 +1,1 @@
-# vue3-express
+# prisma-express
